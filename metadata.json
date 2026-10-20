@@ -1,0 +1,8 @@
+{
+  "name": "Quản Lý & Bàn Giao Thiết Bị QR - Handover Pro",
+  "description": "Hệ thống tạo và cập nhật biên bản bàn giao thiết bị, quét mã QR xác nhận tức thời, ký nhận điện tử và xuất file PDF tự động.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
